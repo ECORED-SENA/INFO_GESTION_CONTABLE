@@ -1,1 +1,1 @@
-module.exports = 'Gestión Contable y de Información Financiera'
+module.exports = 'Gestión contable y de información financiera'
