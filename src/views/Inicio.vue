@@ -141,10 +141,10 @@ section
       li
         i.fas.fa-check
         | Grado mínimo Requerido: 11.
-      li.mb-0
+      li
         i.fas.fa-check
         | Edad mínima: 16 años.
-      li.mb-0
+      li
         i.fas.fa-check
         | Presentar certificado prueba de Estado de la educación media.
       li.mb-0
