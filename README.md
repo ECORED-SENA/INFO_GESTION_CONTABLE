@@ -1,8 +1,8 @@
-# **Contabilización de operaciones comerciales y financieras**
+# **GESTIÓN CONTABLE Y DE INFORMACIÓN FINANCIERA**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/CONTABILIZACION_OPERACIONES_COMERCIALES_FINANCIERAS_INFO/](https://ecored-sena.github.io/CONTABILIZACION_OPERACIONES_COMERCIALES_FINANCIERAS_INFO/)
+[https://ecored-sena.github.io/INFO_GESTION_CONTABLE/](https://ecored-sena.github.io/INFO_GESTION_CONTABLE/)
 
 #
 
