@@ -41,13 +41,13 @@ section
     p.mb-0 El nuevo escenario mundial impone como reto a los procesos de formación el cambio en el enfoque de las habilidades; implementando modelos de negocios que apunten al desarrollo de la creatividad, la resolución de problemas abstractos, propios del desempeño laboral y al trabajo en equipo colaborativo. Por tanto, los procesos educativos están orientados al fortalecimiento de la innovación y la creatividad, sin duda requerirán no sólo del conocimiento el marco legal y normativo, sino en el saber matemático base en la presentación de la información financiera en las empresas que representan el sector real.
       br
       br
-      | En tal sentido, el programa tecnólogo en Gestión Contable y de Información Financiera tiene como propósito desarrollar habilidades para el ejercicio de las funciones en las áreas contables y financieras como: asistentes contables y financieros, analista contable en inventarios, analista de cuentas, asistente de contabilidad.
+      | En tal sentido, el programa tecnólogo en gestión contable y de información financiera tiene como propósito desarrollar habilidades para el ejercicio de las funciones en las áreas contables y financieras como: asistentes contables y financieros, analista contable en inventarios, analista de cuentas, asistente de contabilidad.
       br
       br
       | El egresado incursionará en el marco legal y normativo que rige la disciplina contable, empleando  herramientas ofimáticas. Así mismo, desarrollará capacidad analítica, discreción y confidencialidad de la información, trabajo en equipo, comunicación asertiva y orientación al logro de resultados desempeñándose en los diferentes sectores productivos, en una pequeña, mediana o gran empresa. 
       br
       br
-      | De está manera, se desarrollarán unidades temáticas que abordan diferentes temas necesarios para quienes deseen incursionar en el ámbito de Gestión contable y de información financiera y todo lo implicando con ello. 
+      | De está manera, se desarrollarán unidades temáticas que abordan diferentes temas necesarios para quienes deseen incursionar en el ámbito de gestión contable y de información financiera y todo lo implicando con ello. 
       br
       br
       | #[strong ¡Bienvenido!]
@@ -75,7 +75,7 @@ section
       | La formación profesional en el SENA, contiene metodologías de aprendizaje innovadoras y de acceso a tecnologías de última generación; las cuales, a partir de estrategias pedagógicas en la construcción del conocimiento, la autonomía y el aprendizaje significativo, garantiza la calidad en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de herramientas didácticas activas que estimulen el pensamiento para la solución de problemas simulados y reales. 
       br
       br
-      | El programa de Tecnología en Gestión Contable y de Información Financiera, cumple con la función de formar para el trabajo en el área de contabilidad y finanzas, incluyendo elementos que estimulan de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento: el instructor – tutor, el entorno, las TIC y – el trabajo colaborativo.
+      | El programa de tecnólogo en gestión contable y de información financiera, cumple con la función de formar para el trabajo en el área de contabilidad y finanzas, incluyendo elementos que estimulan de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento: el instructor – tutor, el entorno, las TIC y – el trabajo colaborativo.
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
@@ -119,7 +119,7 @@ section
         | Gestionar procesos propios de la cultura emprendedora y empresarial de acuerdo con el perfil personal y los requerimientos de los contextos productivo y social.
       li
         i.lista-ul__vineta
-        | Enrique Low Murtra-Interactuar en el contexto productivo y social de acuerdo con principios éticos para la construcción de una cultura de paz.
+        | Interactuar en el contexto productivo y social de acuerdo con principios éticos para la construcción de una cultura de paz.
       li
         i.lista-ul__vineta
         | Orientar investigación formativa según referentes técnicos.
@@ -156,7 +156,7 @@ section
       span.h4 5. Perfil de egreso
 
     ul.lista-ul--color
-      p.mb-0 El egresado del Tecnólogo en Gestión Contable y de Información Financiera, estará en capacidad de desarrollar las funciones en las áreas contables y financieras como Asistentes contables y financieros, Analista contable en inventarios, Analista de Cuentas, Asistente de contabilidad y Asistente de cuentas; aplicando Normas Internacionales de Información Financiera, utilizando las herramientas ofimáticas.
+      p.mb-0 El egresado del Tecnólogo en Gestión Contable y de Información Financiera, estará en capacidad de desarrollar las funciones en las áreas contables y financieras como asistentes contables y financieros, analista contable en inventarios, analista de cuentas, asistente de contabilidad y asistente de cuentas; aplicando Normas Internacionales de Información Financiera, utilizando las herramientas ofimáticas.
         br
         br
         | Así mismo desarrollara capacidad analítica, discreción y confidencialidad de la información, trabajo en equipo, comunicación asertiva y orientación al logro de resultados desempeñándose en el sector productivo en una pequeña, mediana o gran empresa ya sea productiva, comercial o de servicio, en funciones relacionadas con áreas contables y financieras. 
@@ -166,7 +166,7 @@ section
     .titulo__template--a.mb-4
       span.h4 6. Estrategia metodológica
 
-    p Centrada en la construcción de autonomía para garantizar la calidad de los procesos formativos en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las tecnologías de la información y la comunicación, integradas, en ambientes abiertos y pluritecnológicos, que en todo caso recrean el contexto productivo y al vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
+    p Centrada en la construcción de autonomía para garantizar la calidad de los procesos formativos en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las tecnologías de la información y la comunicación, integradas, en ambientes abiertos y pluritecnológicos, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
       br
       br
       | La metodología de aprendizaje del programa se enfoca en el aprendizaje basado en retos , este  es un enfoque pedagógico que parte de una situación problemática real propia del contexto del estudiante, quién participa de manera activa, relevante y con vinculación directa con el entorno, la cual implica la definición de un reto y la implementación de una solución. Con esta estrategia, se espera generar un acercamiento al contexto real a partir de problemáticas cotidianas, que permitan al aprendiz comprender y aplicar los temas desde una perspectiva teórico-práctica a su contexto real, encontrando sentido y significado a los aprendizajes,  puesto que, esto se  refleja en su quehacer laboral.
